@@ -1,0 +1,187 @@
+{
+  "total_parsed": 538,
+  "supported": 245,
+  "unsupported": 293,
+  "unsupported_examples": [
+    {
+      "uid": "問題文①-1-2",
+      "id": 1,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "ネットワーク共同作成者 (Network Contributor)",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-3-2",
+      "id": 3,
+      "options": 5,
+      "answer_mode": "unknown",
+      "raw_answer": "",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-4-2",
+      "id": 4,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-5-1",
+      "id": 5,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-6-2",
+      "id": 6,
+      "options": 4,
+      "answer_mode": "single",
+      "raw_answer": "B. ContosoRG1 でのみ Azure SQL サーバーを作成できる。",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-7-2",
+      "id": 7,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-10-2",
+      "id": 10,
+      "options": 3,
+      "answer_mode": "single",
+      "raw_answer": "B. 「ディレクトリ ロール（割り当てられたロール）」ブレードから、ディレクトリ ロ",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-14-1",
+      "id": 14,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(表データが不足しているため、回答の特定は不可)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-21-1",
+      "id": 21,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※選択肢が欠落しているため、正しい実行順序を記載します)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-24-1",
+      "id": 24,
+      "options": 4,
+      "answer_mode": "single",
+      "raw_answer": "A",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-25-1",
+      "id": 25,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※選択肢が欠落しているため、正しい設定値を記載します)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-28-1",
+      "id": 28,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※画面イメージが欠落しているため、設定すべき項目を記載します)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-31-1",
+      "id": 31,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(表データが不足しているため判定不可)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-32-1",
+      "id": 32,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(表データが不足しているため特定のユーザー名は判定不可)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-37-1",
+      "id": 37,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-41-1",
+      "id": 41,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※選択肢が欠落しているため、正しい実行順序を記載します)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-46-1",
+      "id": 46,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※図表が欠落しているため、仕様に基づき記載します)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-47-1",
+      "id": 47,
+      "options": 5,
+      "answer_mode": "single",
+      "raw_answer": "B",
+      "has_missing_info": false,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-48-1",
+      "id": 48,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※表データが不足しているため正確な判定は不可)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    },
+    {
+      "uid": "問題文①-52-1",
+      "id": 52,
+      "options": 0,
+      "answer_mode": "unknown",
+      "raw_answer": "(※図が欠落しているため判定不可)",
+      "has_missing_info": true,
+      "source_file": "問題文①.pdf"
+    }
+  ]
+}
